@@ -1,1 +1,2 @@
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=flyingqwq&show_icons=true&theme=light&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flyingqwq&theme=light&layout=compact)

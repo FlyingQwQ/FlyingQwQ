@@ -3,6 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/CSS-rgb(68%2C%2051%2C%20153)?logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=rgb(247%2C%20223%2C%2030))
 ![Static Badge](https://img.shields.io/badge/Vue.js-rgb(0%2C%20119%2C%20119)?logo=vuedotjs&logoColor=rgb(79%2C%20192%2C%20141))
+![Static Badge](https://img.shields.io/badge/Java-rgb(81%2C%20132%2C%20159)?logo=openjdk&logoColor=rgb(237%2C%20145%2C%2021))
 ![Static Badge](https://img.shields.io/badge/Spring-rgb(36%2C%20149%2C%2067)?logo=spring&logoColor=rgb(151%2C%20201%2C%200))
 
 

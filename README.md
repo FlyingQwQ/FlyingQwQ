@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F740AA&center=true&random=false&width=435&separator=%3C&lines=console.info('Hello%2C+World!');" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE22F7&random=false&width=435&separator=%3C&lines=console.info('Hello%2C+World!');%3CSystem.out.println(%22Hello%2C+World!%22);" alt="Typing SVG" /></a>
   <br>
   <img align="center"
           height="150em"

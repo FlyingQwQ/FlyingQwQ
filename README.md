@@ -6,7 +6,7 @@
 ![Static Badge](https://img.shields.io/badge/Spring-rgb(36%2C%20149%2C%2067)?logo=spring&logoColor=rgb(151%2C%20201%2C%200))
 
 
-### 开发工具
+### 开发工具：
 ![Static Badge](https://img.shields.io/badge/VSCode-rgb(56%2C%2096%2C%20196)?logo=visualstudiocode&logoColor=rgb(34%2C%20165%2C%20241))
 ![Static Badge](https://img.shields.io/badge/IDEA-black?logo=intellijidea&logoColor=white)
 

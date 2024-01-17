@@ -15,6 +15,7 @@
 
 ### OS:
 ![Static Badge](https://img.shields.io/badge/Windows-rgb(16%2C%20124%2C%20206)?logo=windows&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MacOS-black?logo=Apple)
 
 ---
 
